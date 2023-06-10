@@ -7,5 +7,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danvace&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danvace&theme=aura&utcOffset=8)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:Waka Readme-->
+
+<!--END_SECTION:Waka Readme-->
